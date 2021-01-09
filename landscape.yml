@@ -5101,6 +5101,13 @@ landscape:
             logo: catalyst-cloud.svg
             crunchbase: 'https://www.crunchbase.com/organization/catalyst-cloud'
           - item:
+            name: Caylent (KCSP)
+            description: >-
+              'Caylent is a Cloud Native consulting and services provider helping startups and enterprises architect, implement, and support DevOps on with AWS and GCP.'
+            homepage_url: 'https://caylent.com/devops-as-a-service'
+            logo: caylent.svg
+            crunchbase: 'https://www.crunchbase.com/organization/caylent'
+          - item:
             name: CENGN (KCSP)
             description: 'CENGN offers Kubernetes platforms and support to Canadian SMEs to deploy, test, and commercialize their network and cloud applications.'
             homepage_url: 'https://www.cengn.ca/projects/'
