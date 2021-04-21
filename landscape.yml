@@ -5914,6 +5914,13 @@ landscape:
             logo: liquid-reply.svg
             crunchbase: https://www.crunchbase.com/organization/liquid-reply
           - item:
+            name: LSD Open (KCSP)
+            description: >-
+              Fully managed and engineered cloud native accelerator, leveraging a foundation of containerization, Kubernetes and open source technologies
+            homepage_url: https://lsdopen.io/
+            logo: LSD-OPEN.svg
+            crunchbase: https://www.crunchbase.com/organization/lsd-information-technology
+          - item:
             name: MayaData (KCSP)
             description: >-
               MayaData offers a distribution of OpenEBS Container Attached Storage and software to simplify the deployment and management of stateful
