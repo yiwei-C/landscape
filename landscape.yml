@@ -6358,6 +6358,12 @@ landscape:
             logo: d2iq.svg
             crunchbase: https://www.crunchbase.com/organization/D2iQ
           - item:
+            name: Dalian Hi-Think (KCSP)
+            description: Dalian Hi-Think Computer Technology provide customers with full life-cycle digital transformation services.
+            homepage_url: http://www.dhc.com.cn/Kubernetes1?_l=en
+            logo: dalian.svg
+            crunchbase: https://www.crunchbase.com/organization/dalian-hi-think-computer-technology
+          - item:
             name: DaoCloud (KCSP)
             description: We provide enterprise-level cloud native application platform that supports both Kubernetes and Docker Swarm.
             homepage_url: https://www.daocloud.io/dce
