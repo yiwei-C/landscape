@@ -176,6 +176,8 @@ landscape:
               mailing_list_url: https://groups.google.com/g/metal3-dev
               slack_url: https://kubernetes.slack.com/messages/CHD49TLE7
               youtube_url: https://www.youtube.com/channel/UC_xneeYbo-Dl4g-U78xW15g/videos
+              test_property: '123'
+            description: demo
           - item:
             name: Mist.io
             homepage_url: https://mist.io/
