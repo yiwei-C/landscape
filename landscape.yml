@@ -12,6 +12,7 @@ landscape:
             logo: airship.svg
             twitter: https://twitter.com/airshipproject
             crunchbase: https://www.crunchbase.com/organization/open-infrastructure-foundation
+            description: test message
           - item:
             name: Ansible
             homepage_url: https://www.ansible.com/
@@ -591,7 +592,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/neuvector
           - item:
             name: Nirmata Cloud Native Policy Manager
-            description: The solution enables DevSecOps teams to ensure the security, compliance, and operational readiness of their Kubernetes workloads and clusters. By automating the creation, deployment, and lifecycle management of policy-based Intelligent Guardrails, customers can gain insights, alerts, and reports, and enable effective collaboration across development and operations teams. 
+            description: >-
+              The solution enables DevSecOps teams to ensure the security, compliance, and operational readiness of their Kubernetes workloads and clusters. By
+              automating the creation, deployment, and lifecycle management of policy-based Intelligent Guardrails, customers can gain insights, alerts, and
+              reports, and enable effective collaboration across development and operations teams.
             homepage_url: https://www.nirmata.com/
             logo: nirmata.svg
             twitter: https://twitter.com/NirmataCloud
@@ -4228,9 +4232,9 @@ landscape:
           - item:
             name: Orka
             description: Orka is a platform that allows Orchestatration via Kubernetes on Apple.  It allows MacOS on genuine Apple hardware to be used in Kubernetes.
-            homepage_url: 'https://www.macstadium.com/orka'
+            homepage_url: https://www.macstadium.com/orka
             logo: orka.svg
-            crunchbase: 'https://www.crunchbase.com/organization/macstadium'
+            crunchbase: https://www.crunchbase.com/organization/macstadium
           - item:
             name: OVH Managed Kubernetes Service
             description: Benefit from free HA managed Kubernetes service by hosting your nodes and services on OVH Public Cloud.
